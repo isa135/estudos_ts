@@ -1,0 +1,26 @@
+{
+  "name": "estudos_ts",
+  "version": "1.0.0",
+  "description": "Estudos para TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isa135/estudos_ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "estudos"
+  ],
+  "author": "ISa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isa135/estudos_ts/issues"
+  },
+  "homepage": "https://github.com/isa135/estudos_ts#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
